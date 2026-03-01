@@ -5,5 +5,5 @@ var hasPlaywright
 
 console.log(typeof CompanyName)
 console.log(typeof mobileNumber)
-console.log(typeof isautomation)
-console.log(typeof hasplaywright)
+console.log(typeof isAutomation)
+console.log(typeof hasPlaywright)
